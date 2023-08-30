@@ -17,7 +17,7 @@
 - 👨‍💻 Love to dive deeper into the languages to have a greater understanding.
 - 👁‍🗨 Unique thing about me → Ability to quickly learn and master a new skill and able to implement it to solve a real-time issue.
 - 📘 I’m currently collaborating on **Open-Source Projects** such as: freeCodeCamp, Amplicfication, Expensify, and Hack-for-LA.
-- ⚡ Things I enjoy **Games, Drones, Anime**.
+- ⚡ Things I enjoy **Games, Drones, Food**.
 - 📫 How to reach me **jeffmchang24@gmail.com**.
 - 🔗 Connect with me on [**Linkedin**](https://www.linkedin.com/in/jeffmchang23/ "LinkedIn Profile").
 
